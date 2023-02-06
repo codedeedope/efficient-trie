@@ -1,1 +1,13 @@
+#Ignore temporary files
+**/.*.kate-swp
+**/.directory
+
+#Ignore generated folders
 /bin/
+**/.vs
+**/x64
+**/x32
+**/Debug
+**/Release
+**/target
+
